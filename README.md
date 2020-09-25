@@ -40,6 +40,10 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
 # Observations from the Analysis.
 
+Capomulin shown the maximum reduction in tumor growth.
+The number of data points for each Drug Regimen were all above 100.
+Mouse average weight versus average tumor volume for the Capomulin shows significant effectiveness in curing tumor of drug regimen.
+
 
 
 
